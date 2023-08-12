@@ -13,13 +13,13 @@ public class AmazonLoginPage {
 
     // Login Email auf der Website
     public void loginEmail()  {
-        driver.findElement(By.xpath("//input[@type='email']")).sendKeys("gulhante@web.de");
+        driver.findElement(By.xpath("//input[@type='email']")).sendKeys("xxxx");
         driver.findElement(By.xpath("//input[@id='continue']")).click();
     }
 
     // Login Password auf der Website
     public void loginPassword()  {
-        driver.findElement(By.xpath("//input[@type='password']")).sendKeys("gt1002ht*");
+        driver.findElement(By.xpath("//input[@type='password']")).sendKeys("xxxxx");
     }
 
     // Anmelden click
