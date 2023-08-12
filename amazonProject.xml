@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="allure report" verbose="4">
+    
+    <test name="amazon">
+        <classes>
+          <class name="tests.AmazonWithAllureReport_Tests_Grid"></class>
+        </classes>
+    </test>
+    
+</suite>
