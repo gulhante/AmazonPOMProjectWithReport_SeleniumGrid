@@ -4,10 +4,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 
-public class AmazonHomePageGrid{
+public class AmazonHomePage {
     private WebDriver driver;
 
-    public AmazonHomePageGrid(WebDriver driver) {
+    public AmazonHomePage(WebDriver driver) {
         this.driver = driver;
     }
 

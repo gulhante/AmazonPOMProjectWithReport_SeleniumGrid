@@ -7,11 +7,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
-public class AmazonBasePageGrid {
+public class AmazonBasePage {
 
     private WebDriver driver;
 
-    public AmazonBasePageGrid(WebDriver driver) {
+    public AmazonBasePage(WebDriver driver) {
         this.driver = driver;
     }
 

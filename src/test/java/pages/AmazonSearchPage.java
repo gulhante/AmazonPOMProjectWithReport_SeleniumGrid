@@ -7,11 +7,11 @@ import org.openqa.selenium.WebElement;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AmazonSearchPageGrid {
+public class AmazonSearchPage {
 
     private WebDriver driver;
 
-    public AmazonSearchPageGrid(WebDriver driver) {
+    public AmazonSearchPage(WebDriver driver) {
         this.driver = driver;
     }
 

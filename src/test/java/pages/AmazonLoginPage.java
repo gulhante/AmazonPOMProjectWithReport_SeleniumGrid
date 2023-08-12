@@ -3,11 +3,11 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class AmazonLoginPageGrid{
+public class AmazonLoginPage {
 
     private WebDriver driver;
 
-    public AmazonLoginPageGrid(WebDriver driver) {
+    public AmazonLoginPage(WebDriver driver) {
         this.driver = driver;
     }
 

@@ -6,11 +6,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
 
-public class AmazonCartPageGrid{
+public class AmazonCartPage {
 
     private WebDriver driver;
 
-    public AmazonCartPageGrid(WebDriver driver) {
+    public AmazonCartPage(WebDriver driver) {
         this.driver = driver;
     }
     // Die Anzahl der im Warenkorb gekauften {amount} Artikel wurde erhöht
