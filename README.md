@@ -1,6 +1,6 @@
 # Amazon Website Automation Test
 
-Dieses Projekt enthält automatisierte Test-Szenarien, um die Funktionalität der Amazon-Website zu überprüfen. Die Tests wurden mit [Selenium](https://www.selenium.dev/) und [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) unter Verwendung des Page Object Models entwickelt. Die Testergebnisse werden sowohl in Allure Reports als auch in HTML Reports protokolliert.
+Dieses Projekt enthält automatisierte Test-Szenarien, um die Funktionalität der Amazon-Website zu überprüfen. Die Tests wurden mit [Selenium Grid](https://www.selenium.dev/) und [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) unter Verwendung des Page Object Models entwickelt. Die Testergebnisse werden sowohl in Allure Reports als auch in HTML Reports protokolliert.
 
 ## Voraussetzungen
 
